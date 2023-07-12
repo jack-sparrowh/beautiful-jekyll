@@ -6,7 +6,7 @@ subtitle: Why you'd want to give me a try (or not)
 
 My name is Przemysław Więcek and i have a Masters degree in Chemical Engineering. I'm good with crunching and flipping the numbers, or at least i'm trying. I really like spending time coding in python, deriving equations and learning. I'm trying to work my way through the introductory books into a field of mathematical logic and real analysis, to better understand the foundations of probability theory.
 
-Here is a list of books i'm using and i used to for self-study:
+Here is a list of books i'm using and i used for self-study:
 
 * Essential Calculus: Early Transcendentals, 2nd Edition By James Stewart,
 * Introduction to Probability for Data Science By Stanley H. Chan,
@@ -14,9 +14,6 @@ Here is a list of books i'm using and i used to for self-study:
 * Linear Algebra and Its Applications, 6th edition By David C.Lay, Steven R.Lay, Judi J.McDonald.
 * Spaces, An Introduction to Real Analysis by Tom L. Lindstrom,
 * A Friendly Introduction to Mathematical Logic by Christopher C. Leaty, Lars Kristiansen
-
-- I rock a great mustache
-- I'm extremely loyal to my family
 
 What else do you need?
 
