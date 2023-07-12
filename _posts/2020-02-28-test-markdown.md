@@ -12,6 +12,8 @@ This is a demo post to show you how to write blog posts with markdown.  I strong
 
 $\bf{x}$
 
+$ \bf{x} $
+
 **Here is some bold text**
 
 ## Here is a secondary heading
