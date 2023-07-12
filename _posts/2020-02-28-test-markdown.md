@@ -18,6 +18,10 @@ $$
 \bf{x}
 $$
 
+\[\bf{x}\]
+
+\(\bf{x}\)
+
 **Here is some bold text**
 
 ## Here is a secondary heading
