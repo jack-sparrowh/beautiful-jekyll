@@ -13,7 +13,7 @@ Here is a list of books i'm using and i used for self-study:
 * Probability, Random Variables, and Random Processes Theory and Signal Processing Applications, by John J. Shynk
 * Linear Algebra and Its Applications, 6th edition By David C.Lay, Steven R.Lay, Judi J.McDonald.
 * Spaces, An Introduction to Real Analysis by Tom L. Lindstrom,
-* A Friendly Introduction to Mathematical Logic by Christopher C. Leaty, Lars Kristiansen
+* A First Course in Mathematical Logic and Set Theory by Michael L. O'Leary
 
 What else do you need?
 
